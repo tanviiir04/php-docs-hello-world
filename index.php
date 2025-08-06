@@ -3,4 +3,3 @@ int a=10;
 int b=20;
 int c=a+b;
 echo c;
-echo "Hello Tanvi!";
